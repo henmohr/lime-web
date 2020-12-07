@@ -16,7 +16,7 @@ p {
 }
 
 /* lang */
-.en, .it {
+.en, .it, .pt-br {
     font-weight: bold;
     color: #666;
     text-transform: capitalize !important;
